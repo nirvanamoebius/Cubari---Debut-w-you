@@ -10,9 +10,7 @@
       "volume": "",
       "last_updated": "1772547120",
       "groups": {
-        "Polars Scans": [
-          "/proxy/api/imgchest/chapter/lqyezqvozyd"
-        ]
+        "Polars Scans": "imgchest/chapter/lqyezqvozyd"
       }
     }
   }
